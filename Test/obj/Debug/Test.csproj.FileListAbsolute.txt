@@ -1,0 +1,11 @@
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\Test.dll
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\Test.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\nunit.framework.dll
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\SimpleMath.dll
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\SimpleMath.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\nunit.framework.pdb
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\nunit.framework.xml
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Test.dll
+c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Test.pdb
+C:\Users\Mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

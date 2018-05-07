@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9d768d3b-29e6-49b6-8591-f4c28cebf589" name="Mike@MIKE-PC 2018-05-07 14:43:44" runUser="Mike-PC\Mike" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="567ae622-85dd-4795-80d8-aebae239e6e1">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Mike_MIKE-PC 2018-05-07 14_43_44" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-05-07T14:43:44.3418474+08:00" queuing="2018-05-07T14:43:45.2412872+08:00" start="2018-05-07T14:43:45.3743310+08:00" finish="2018-05-07T14:43:45.9966788+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestCase2" storage="test\bin\debug\test.dll" id="f09375e8-b919-7702-5af4-fca161904ddf">
+      <Execution id="56cfa6cd-f361-4b67-9741-9d2b0bd5f613" />
+      <TestMethod codeBase="C:/Users/Mike/Documents/Visual Studio 2015/Projects/SimpleMath/test/bin/debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Test, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCase2" />
+    </UnitTest>
+    <UnitTest name="TestCase3" storage="test\bin\debug\test.dll" id="0aad3d46-cabb-88ae-84bd-c54e95e86913">
+      <Execution id="066109ae-75e9-4812-a686-7c2cb1870f6a" />
+      <TestMethod codeBase="C:/Users/Mike/Documents/Visual Studio 2015/Projects/SimpleMath/test/bin/debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Test, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCase3" />
+    </UnitTest>
+    <UnitTest name="TestCase1" storage="test\bin\debug\test.dll" id="3f2e64c7-866d-f0b3-0d17-d2032db9b28a">
+      <Execution id="bbdff535-d18d-4506-9bc7-4c76be153a9f" />
+      <TestMethod codeBase="C:/Users/Mike/Documents/Visual Studio 2015/Projects/SimpleMath/test/bin/debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Test, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCase1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3f2e64c7-866d-f0b3-0d17-d2032db9b28a" executionId="bbdff535-d18d-4506-9bc7-4c76be153a9f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f09375e8-b919-7702-5af4-fca161904ddf" executionId="56cfa6cd-f361-4b67-9741-9d2b0bd5f613" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0aad3d46-cabb-88ae-84bd-c54e95e86913" executionId="066109ae-75e9-4812-a686-7c2cb1870f6a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bbdff535-d18d-4506-9bc7-4c76be153a9f" testId="3f2e64c7-866d-f0b3-0d17-d2032db9b28a" testName="TestCase1" computerName="MIKE-PC" duration="00:00:00.0214858" startTime="2018-05-07T14:43:45.4163330+08:00" endTime="2018-05-07T14:43:45.9306592+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bbdff535-d18d-4506-9bc7-4c76be153a9f">
+    </UnitTestResult>
+    <UnitTestResult executionId="56cfa6cd-f361-4b67-9741-9d2b0bd5f613" testId="f09375e8-b919-7702-5af4-fca161904ddf" testName="TestCase2" computerName="MIKE-PC" duration="00:00:00.0002229" startTime="2018-05-07T14:43:45.9326622+08:00" endTime="2018-05-07T14:43:45.9346611+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56cfa6cd-f361-4b67-9741-9d2b0bd5f613">
+    </UnitTestResult>
+    <UnitTestResult executionId="066109ae-75e9-4812-a686-7c2cb1870f6a" testId="0aad3d46-cabb-88ae-84bd-c54e95e86913" testName="TestCase3" computerName="MIKE-PC" duration="00:00:00.0002134" startTime="2018-05-07T14:43:45.9376616+08:00" endTime="2018-05-07T14:43:45.9406622+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="066109ae-75e9-4812-a686-7c2cb1870f6a">
+    </UnitTestResult>
+  </Results>
+</TestRun>
