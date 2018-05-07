@@ -17,24 +17,24 @@ namespace Test
         }
 
         [TestMethod]
-        public void TestCase1()
+        public void TestAdd()
         {
             double result = simpleMath.Add(1,1);
             Assert.AreEqual(2, result);
         }
 
         [TestMethod]
-        public void TestCase2()
+        public void TestMultiply()
         {
             double result = simpleMath.Multiply(1, 1);
             Assert.AreEqual(1, result);
         }
 
         [TestMethod]
-        public void TestCase3()
+        public void TestSubtraction()
         {
-            double result = simpleMath.Multiply(1, 1);
-            Assert.AreEqual(1, result);
+            double result = simpleMath.Minus(1, 1);
+            Assert.AreEqual(2, result);
         }
     }
 }
