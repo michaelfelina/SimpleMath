@@ -9,3 +9,13 @@ c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Te
 c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Test.dll
 c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\Test\obj\Debug\Test.pdb
 C:\Users\Mike\documents\visual studio 2015\Projects\SimpleMath\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\Projects\SimpleMath\Test\bin\Debug\Test.dll
+D:\Development\Projects\SimpleMath\Test\bin\Debug\Test.pdb
+D:\Development\Projects\SimpleMath\Test\bin\Debug\nunit.framework.dll
+D:\Development\Projects\SimpleMath\Test\bin\Debug\SimpleMath.dll
+D:\Development\Projects\SimpleMath\Test\bin\Debug\SimpleMath.pdb
+D:\Development\Projects\SimpleMath\Test\bin\Debug\nunit.framework.pdb
+D:\Development\Projects\SimpleMath\Test\bin\Debug\nunit.framework.xml
+D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.dll
+D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.pdb

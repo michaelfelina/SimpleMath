@@ -2,3 +2,8 @@ c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\SimpleMath\bin\De
 c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\SimpleMath\bin\Debug\SimpleMath.pdb
 c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\SimpleMath\obj\Debug\SimpleMath.dll
 c:\users\mike\documents\visual studio 2015\Projects\SimpleMath\SimpleMath\obj\Debug\SimpleMath.pdb
+D:\Development\Projects\SimpleMath\SimpleMath\bin\Debug\SimpleMath.dll
+D:\Development\Projects\SimpleMath\SimpleMath\bin\Debug\SimpleMath.pdb
+D:\Development\Projects\SimpleMath\SimpleMath\obj\Debug\SimpleMath.csprojResolveAssemblyReference.cache
+D:\Development\Projects\SimpleMath\SimpleMath\obj\Debug\SimpleMath.dll
+D:\Development\Projects\SimpleMath\SimpleMath\obj\Debug\SimpleMath.pdb
