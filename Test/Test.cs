@@ -34,6 +34,7 @@ namespace Test
         public void TestSubtraction()
         {
             double result = simpleMath.Minus(1, 1);
+
             Assert.AreEqual(0, result);
         }
     }

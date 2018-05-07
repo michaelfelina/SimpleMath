@@ -19,4 +19,3 @@ D:\Development\Projects\SimpleMath\Test\bin\Debug\nunit.framework.xml
 D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.dll
 D:\Development\Projects\SimpleMath\Test\obj\Debug\Test.pdb
-D:\Development\Projects\SimpleMath\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
